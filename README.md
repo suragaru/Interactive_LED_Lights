@@ -16,4 +16,4 @@ link: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/
 
 <br><b>the App:</b><br><img src="https://github.com/sweetmoan/Interactive-Bed-Light/blob/main/extra/theapp.png" width="500"/>
 
-<br><b>Curcuit:</b><br><img src="https://github.com/sweetmoan/Interactive-Bed-Light/blob/main/extra/curcuit.png" width="500"/>
+<br><b>Curcuit:</b><br><img src="https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/curcuit.png" width="500"/>
