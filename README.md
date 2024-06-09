@@ -14,6 +14,6 @@ inspired by big bang theory. <br>
 link: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
 5)Open Cmd > go to where ur cloudflare.exe place and enter "clouldflare.exe tunnel -url localhost:80" <br>
 
-<br><b>the App:</b><br><img src="https://github.com/sweetmoan/Interactive-Bed-Light/blob/main/extra/theapp.png" width="500"/>
+<br><b>the App:</b><br><img src="https://github.com/sweetmoan/Interactive-Bed-Lights/blob/main/extra/theapp.png" width="500"/>
 
 <br><b>Curcuit:</b><br><img src="https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/curcuit.png" width="500"/>
