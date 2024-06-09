@@ -10,7 +10,7 @@ Inspired by Big Bang Theory. <br>
 3) Run the app.py <br>
 <br>
 <b>To Tunnel the server app [this is to access the web page anywhere]:</b> <br>
-4)Download Clouldflare [u can use ngrok if u like]<br>
+4)Download Clouldflare [you can use ngrok if u like]<br>
 Link: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
 5)Open Cmd > Go to where ur cloudflare.exe place and enter "clouldflare.exe tunnel -url localhost:80" <br>
 
