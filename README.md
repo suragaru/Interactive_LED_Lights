@@ -26,7 +26,6 @@ This web application allows users to control LEDs connected to a microcontroller
 
 ![App Screenshot](https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/theapp.png)
 
----
 
 ## Buy me a coffee
 
