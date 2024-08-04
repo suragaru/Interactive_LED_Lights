@@ -22,10 +22,11 @@
   </a>  
 </p>
 
-This web application allows users to control LEDs connected to a microcontroller via serial communication. The app is built using the [Flask](https://flask.palletsprojects.com/) framework and communicates with the microcontroller using the `pyserial` library.
+This web application allows users to control LEDs connected to a microcontroller via serial communication. The app is built using the [Flask](https://flask.palletsprojects.com/) framework and communicates with the microcontroller using the `pyserial` library.<br>
 
-<img src="https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/theapp.png" width="600"/>
+<img src="https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/theapp.png" width="500"/>
 
+---
 
 ## Buy me a coffee
 
