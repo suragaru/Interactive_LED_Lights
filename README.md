@@ -67,17 +67,20 @@ Whether you use this project, have learned something from it, or just like it, p
    ```bash
    pip install Flask pyserial
    ```
-3. Run the Application
-  `python app.py`
+   
+3. Run the Application <br>
+- `python app.py`
 
 4. To Tunnel the Server, Download Clouldflare
   ```bash
   https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation
   ```
+
 5. Open Cmd > Go to where your cloudflare.exe at place and enter:
   ```bash
   clouldflare.exe tunnel -url localhost:80" 
   ```
+
 ### Usage
 Setting Up the COM Port
 Navigate to the /s route or click on the setup link from the home page.
