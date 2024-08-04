@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/issues/suragaru/Interactive_Bed_Lights" alt="open issues" />
   </a>  
   <a href="https://github.com/suragaru/Interactive_Bed_Lights/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/suragaru/Interactive_Bed_Lights" alt="open issues" />
+    <img src="https://img.shields.io/github/license/suragaru/Interactive_Bed_Lights.svg" alt="open issues" />
   </a>  
 </p>
 
