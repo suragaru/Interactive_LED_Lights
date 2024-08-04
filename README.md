@@ -78,7 +78,7 @@ Whether you use this project, have learned something from it, or just like it, p
 
 5. Open Cmd > Go to where your cloudflare.exe at place and enter:
   ```bash
-  clouldflare.exe tunnel -url localhost:80" 
+  clouldflare.exe tunnel -url localhost:80
   ```
 
 ### Usage
