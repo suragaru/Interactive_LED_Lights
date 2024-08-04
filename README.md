@@ -65,9 +65,7 @@ Whether you use this project, have learned something from it, or just like it, p
    pip install Flask pyserial
    ```
 3. Run the Application
-  ```bash
-  python app.py
-  ```
+  `python app.py`
 
 4. To Tunnel the Server 
 - Download Clouldflare
