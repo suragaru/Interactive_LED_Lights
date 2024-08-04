@@ -58,12 +58,13 @@ Whether you use this project, have learned something from it, or just like it, p
    ```bash
    git clone https://github.com/your-username/flask-led-control.git
    cd flask-led-control
-
+   ```
+   
 2. Install dependencies:
    ```bash
    pip install Flask pyserial
    ```
-   
+
 3. Run the Application:
   ```bash
   python app.py
