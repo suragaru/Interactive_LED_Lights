@@ -61,17 +61,16 @@ Whether you use this project, have learned something from it, or just like it, p
    ```bash
    git clone https://github.com/your-username/Interactive_Bed_Lights.git
    cd Interactive_Bed_Lights
-   ```
    
 2. Install Dependencies
    ```bash
    pip install Flask pyserial
-   ```
    
-3. Run the Application <br>
-- `python app.py`
+3. Run the Application
+   ```bash
+   python app.py
 
-4. Tunnel the Server with Cloudflare
+5. Tunnel the Server with Cloudflare
 - Download and install Cloudflare from the <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/">official guide</a>.
 
 5. Configure Cloudflare Tunnel
