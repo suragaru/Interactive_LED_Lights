@@ -68,12 +68,16 @@ Whether you use this project, have learned something from it, or just like it, p
   ```bash
   python app.py
   ```
-6. <b>To Tunnel the server app [this is to access the web page anywhere]:</b> <br>
-
-7. Download Clouldflare [you can use ngrok if u like]<br>
-Link: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
-
-5)Open Cmd > Go to where ur cloudflare.exe place and enter "clouldflare.exe tunnel -url localhost:80" <br>
+6. To Tunnel the server 
+- Download Clouldflare
+  ```bash
+  https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
+  ```
+  
+7)Open Cmd > Go to where your cloudflare.exe at place and enter:
+  ```bash
+  clouldflare.exe tunnel -url localhost:80" 
+  ```
 
 <br><b>The App:</b><br><img src="https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/theapp.png" width="500"/>
 
