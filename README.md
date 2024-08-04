@@ -78,10 +78,6 @@ Whether you use this project, have learned something from it, or just like it, p
   clouldflare.exe tunnel -url localhost:80" 
   ```
 
-<br><b>The App:</b><br><img src="https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/theapp.png" width="500"/>
-
-<br><b>Curcuit:</b><br><img src="https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/curcuit.png" width="500"/>
-
 ### Contributing
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
