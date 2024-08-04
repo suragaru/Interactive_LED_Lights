@@ -24,8 +24,7 @@
 
 This web application allows users to control LEDs connected to a microcontroller via serial communication. The app is built using the [Flask](https://flask.palletsprojects.com/) framework and communicates with the microcontroller using the `pyserial` library.
 
-## The App
-<img aligh="center" src="https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/theapp.png" width="650"/>
+![App Screenshot](https://github.com/mrrpickle/Interactive-Bed-Lights/blob/main/extra/theapp.png)
 
 ---
 
