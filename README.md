@@ -54,23 +54,22 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ### Installation
 
-1. Clone the Repository:
+1. Clone the Repository
    ```bash
-   git clone https://github.com/your-username/flask-led-control.git
-   cd flask-led-control
+   git clone https://github.com/your-username/Interactive_Bed_Lights.git
+   cd Interactive_Bed_Lights
    ```
    
-2. Install dependencies:
+2. Install Dependencies
    ```bash
    pip install Flask pyserial
    ```
-
-3. Run the Application:
+3. Run the Application
   ```bash
   python app.py
   ```
 
-4. To Tunnel the server: 
+4. To Tunnel the Server 
 - Download Clouldflare
   ```bash
   https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
