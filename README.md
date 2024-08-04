@@ -67,8 +67,7 @@ Whether you use this project, have learned something from it, or just like it, p
 3. Run the Application
   `python app.py`
 
-4. To Tunnel the Server 
-- Download Clouldflare
+4. To Tunnel the Server, Download Clouldflare
   ```bash
   https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
   ```
