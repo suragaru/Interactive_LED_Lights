@@ -54,7 +54,7 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ### Installation
 
-1. Clone the Repository
+1. Clone the Repository:
    ```bash
    git clone https://github.com/your-username/flask-led-control.git
    cd flask-led-control
@@ -64,17 +64,18 @@ Whether you use this project, have learned something from it, or just like it, p
    pip install Flask pyserial
    ```
    
-5. Run the Application
+3. Run the Application:
   ```bash
   python app.py
   ```
-6. To Tunnel the server 
+
+4. To Tunnel the server: 
 - Download Clouldflare
   ```bash
   https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
   ```
   
-7)Open Cmd > Go to where your cloudflare.exe at place and enter:
+5)Open Cmd > Go to where your cloudflare.exe at place and enter:
   ```bash
   clouldflare.exe tunnel -url localhost:80" 
   ```
