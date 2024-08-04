@@ -82,8 +82,8 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ## Usage
 Setting Up the COM Port
-Navigate to the /s route or click on the setup link from the home page.
-Enter the COM port number (e.g., 3 for COM3) and click "connect."
+Navigate to the `/s` route or click on the setup link from the home page.
+Enter the COM port number (e.g., `3` for `COM3`) and click "connect."
 
 ## Controlling LEDs
 Once the COM port is set, you can control the LEDs:
