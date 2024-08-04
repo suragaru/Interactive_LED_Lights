@@ -78,6 +78,20 @@ Whether you use this project, have learned something from it, or just like it, p
   ```bash
   clouldflare.exe tunnel -url localhost:80" 
   ```
+### Usage
+Setting Up the COM Port
+Navigate to the /s route or click on the setup link from the home page.
+Enter the COM port number (e.g., 3 for COM3) and click "connect."
+
+### Controlling LEDs
+Once the COM port is set, you can control the LEDs:
+
+Turn Off LED: Select "off" and submit.
+Change LED Color: Select a color (e.g., "red", "green", "blue", etc.) and submit.
+
+### File Structure
+app.py: The main application file containing the Flask routes and serial communication logic.
+templates/index.html: The HTML template for the main control interface.
 
 ### Contributing
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
