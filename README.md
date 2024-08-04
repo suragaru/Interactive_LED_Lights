@@ -71,12 +71,12 @@ Whether you use this project, have learned something from it, or just like it, p
 3. Run the Application <br>
 - `python app.py`
 
-4. To Tunnel the Server, Download Clouldflare
-  ```bash
-  https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation
-  ```
+4. Tunnel the Server with Cloudflare
+- Download and install Cloudflare from the <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/">official guide</a>.
 
-5. Open Cmd > Go to where your cloudflare.exe at place and enter:
+5. Configure Cloudflare Tunnel
+- Open Command Prompt (Cmd) and navigate to the directory where cloudflare.exe is located.
+- Run the following command:
   ```bash
   clouldflare.exe tunnel -url localhost:80
   ```
