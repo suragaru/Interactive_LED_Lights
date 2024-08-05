@@ -59,8 +59,8 @@ Whether you use this project, have learned something from it, or just like it, p
 
 1. Clone the Repository
    ```bash
-   git clone https://github.com/your-username/Interactive_Bed_Lights.git
-   cd Interactive_Bed_Lights
+   git clone https://github.com/your-username/Interactive_LED_Lights.git
+   cd Interactive_LED_Lights
    
 2. Install Dependencies
    ```bash
